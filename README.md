@@ -1,4 +1,4 @@
-# Sales_Insites_PowerBI
+# Sales_Insights_PowerBI
 
 💼 Sales Dashboard using Power BI
 🚀 I built an interactive Sales Dashboard using Power BI, connected to a MySQL database, and gained hands-on experience in data cleaning, transformation, and visualization.
